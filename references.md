@@ -1,3 +1,3 @@
-<<<<< yo
-========
->>>>> ye
+# References
+
+* octocat 1 😈
